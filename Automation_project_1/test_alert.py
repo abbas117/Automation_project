@@ -23,7 +23,8 @@ print("confirm message is: ", alert.text)
 alert.dismiss()
 
 # table = driver.find_element(By.XPATH, "(//table[@id='product'])[1]")
-# print(table.text)
+# print(table.text)# print(table.text)
+
 
 
 driver.quit()
